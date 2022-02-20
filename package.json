@@ -2,7 +2,7 @@
   "name": "project2",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://sribinai.github.io",
+  "homepage":"https://sribinai.github.io/Add-names-in-input-field-and-display-in-table-using-REACTJS",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.2",

@@ -33,4 +33,5 @@ table, th, td {
 .inputs {
   display: flex;
   flex-direction:column;
+  /* flex-direction:row */
 }
